@@ -1,0 +1,17 @@
+com.example.login_pj.app-core-1.6.0-0 C:\Users\Omar\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+com.example.login_pj.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Omar\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.login_pj.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Omar\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.login_pj.app-jetified-play-services-basement-18.3.0-3 C:\Users\Omar\.gradle\caches\transforms-3\a43f60338762a20514d953a92576aa3e\transformed\jetified-play-services-basement-18.3.0\res
+com.example.login_pj.app-jetified-firebase-common-21.0.0-4 C:\Users\Omar\.gradle\caches\transforms-3\bb5dd83b2d2d046e8c4935e384b62dda\transformed\jetified-firebase-common-21.0.0\res
+com.example.login_pj.app-jetified-window-1.0.0-beta04-5 C:\Users\Omar\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+com.example.login_pj.app-debug-6 C:\Users\Omar\login_project\login_pj\android\app\src\debug\res
+com.example.login_pj.app-main-7 C:\Users\Omar\login_project\login_pj\android\app\src\main\res
+com.example.login_pj.app-RES-8 C:\Users\Omar\login_project\login_pj\build\app\RES\processDebugGoogleServices
+com.example.login_pj.app-pngs-9 C:\Users\Omar\login_project\login_pj\build\app\generated\res\pngs\debug
+com.example.login_pj.app-resValues-10 C:\Users\Omar\login_project\login_pj\build\app\generated\res\resValues\debug
+com.example.login_pj.app-rs-11 C:\Users\Omar\login_project\login_pj\build\app\generated\res\rs\debug
+com.example.login_pj.app-mergeDebugResources-12 C:\Users\Omar\login_project\login_pj\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.login_pj.app-mergeDebugResources-13 C:\Users\Omar\login_project\login_pj\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.login_pj.app-merged_res-14 C:\Users\Omar\login_project\login_pj\build\app\intermediates\merged_res\debug
+com.example.login_pj.app-packaged_res-15 C:\Users\Omar\login_project\login_pj\build\firebase_core\intermediates\packaged_res\debug
+com.example.login_pj.app-packaged_res-16 C:\Users\Omar\login_project\login_pj\build\path_provider_android\intermediates\packaged_res\debug

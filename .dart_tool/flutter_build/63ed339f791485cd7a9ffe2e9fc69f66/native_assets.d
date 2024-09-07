@@ -1,0 +1,1 @@
+ C:\\Users\\Omar\\login_project\\login_pj\\.dart_tool\\flutter_build\\63ed339f791485cd7a9ffe2e9fc69f66\\native_assets.yaml: 

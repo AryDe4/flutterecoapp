@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032949345037",
+    "project_id": "loginpj-d7e93",
+    "storage_bucket": "loginpj-d7e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032949345037:android:8ef2d88a16c7201c855e44",
+        "android_client_info": {
+          "package_name": "com.example.login_pj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCert7gZeLZVpLFxBLCucdVPuGDpgxTiWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
